@@ -3,8 +3,8 @@ In this project, a maven-plugin has been written that checks whether the names o
 
 * myClasses folder and the classes in it were created symbolically in order to test the plugin.
 * There are nine classes in the folder named myFolder. Classes are named in order: Civic, High, Level, Life, Lower, Madam, Noon, Racecar, Stats
-* There are six palindrome words and they are: Civic, Level, Madam, Noon, Racecar, Stats.
-* There are three non-palindrome names: High, Life, Lower
+* There are six palindrome words: Civic, Level, Madam, Noon, Racecar, Stats.
+* There are three non-palindrome words: High, Life, Lower
 * So the results we expect to see in the terminal should be as follows.
 
 ![img.png](img.png)
