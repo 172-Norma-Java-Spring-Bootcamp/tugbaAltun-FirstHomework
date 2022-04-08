@@ -11,7 +11,7 @@ In this project, a maven-plugin has been written that checks whether the names o
 
 ---
 
-#Installation
+# Installation
 
 * Firstly, clone the repository from the github.
 * After that, go to terminal and run this command in order.
